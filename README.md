@@ -1,5 +1,17 @@
 # [React 소프트웨어 테스트 (Hooks + Redux Tool Kit 시대의 모던 테스트 기법)](https://www.udemy.com/course/reacthooksreduxtoolkit/)
 
+## Setup
+
+    npx create-react-app <project-name> --template redux
+
+<br />
+
+**`React 18 Issue`**
+
+    npm install --save-dev @testing-library/react@latest @testing-library/jest-dom@latest @testing-library/user-event@latest
+
+---
+
 ## Chapter ( Testing )
 
 - [ ] 1.  Rendering 테스트 _`(34:00)`_
