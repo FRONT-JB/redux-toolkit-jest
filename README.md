@@ -1,4 +1,4 @@
-# [React ソフトウェア테스트(Hooks+ReduxToolKit 時代のモダン테스트手法)](https://www.udemy.com/course/reacthooksreduxtoolkit/)
+# [React 소프트웨어 테스트 (Hooks + Redux Tool Kit 시대의 모던 테스트 기법)](https://www.udemy.com/course/reacthooksreduxtoolkit/)
 
 ## Chapter ( Testing )
 
