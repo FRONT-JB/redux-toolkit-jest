@@ -1,5 +1,7 @@
 **[Roles](https://github.com/A11yance/aria-query#elements-to-roles)**
 
+---
+
 `"test": "react-scripts test --env=jsdom --verbose"`
 
 - **--env=\<environment>**
@@ -17,7 +19,7 @@
 
 **`get`**
 
-대기시간 없이
+대기시간 없이 처리
 
 **`find`**
 
