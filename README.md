@@ -16,7 +16,7 @@
 
 - [x] 1.  Rendering 테스트 _`(34:00)`_
 - [x] 2.  UserEvent 테스트 _`(14:00)`_
-- [ ] 3.  List Component 테스트 _`(21:00)`_
+- [x] 3.  List Component 테스트 _`(21:00)`_
 - [ ] 4.  useEffect 테스트 _`(14:00)`_
 - [ ] 5.  API Mock (Mock Server Worker) 컴포넌트 _`(14:00)`_
 - [ ] 6.  API Mock (Mock Server Worker) 테스트 _`(19:00)`_
@@ -36,3 +36,5 @@
 [1. Rendering Test](docs/rendering.md)
 
 [2. UserEvent Test](docs/userEvent.md)
+
+[3. List Component Test](docs/list.md)
