@@ -5,6 +5,7 @@ import "./App.css";
 import RenderInput from "./RenderInput";
 import FrameworkList from "./FrameworkList";
 import UseEffectRender from "./UseEffectRender";
+import MockServer from "./MockServer";
 
 function App() {
   const data = [
@@ -24,6 +25,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <MockServer />
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
         <RenderInput outputConsole={console.log} />
